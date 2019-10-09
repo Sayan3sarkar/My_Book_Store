@@ -36,7 +36,7 @@ const fileFilter = (req, file, cb) => { //Allowing only certain types of files t
     }
 }
 
-const MONGODB_URI = 'mongodb+srv://Sayan_pursuit:obKvLxbijOmREOa9@book-store-node-js-kdxgg.mongodb.net/shop?retryWrites=true&w=majority';
+const MONGODB_URI = '***';
 
 const app = express();
 const store = new MongoDBStore({
@@ -73,7 +73,7 @@ app.use((req, res, next) => {
     next();
 });
 
-app.use((req, res, next) => {
+app.use((req, res, next) => { //giving request.user all facilities of user model
     if (!req.session.user) {
         return next();
     }
