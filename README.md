@@ -22,10 +22,10 @@ An Online Book Store created with [Node JS](https://nodejs.org/en/docs/), [Expre
 ## Steps and Prerequisites to Run Project
 
 <ul>
-	<li>[Node JS](https://nodejs.org/en/docs/) must be installed</li>
-	<li>*git clone* via *terminal*(for linux/mac) or *git bash*(for windows)</li>
-	<li>*cd* to the cloned repository</li>
-	<li>Run **npm install** and all the dependencies mentioned in **package.json** will be installed inside *node_modules* folder</li>
+	<li><a href="https://nodejs.org/en/docs/">Node JS</a> must be installed</li>
+	<li><b>git clone</b>via <b>terminal</b>(for linux/mac) or <b>git bash</b>(for windows)</li>
+	<li><b>cd</b> to the cloned repository</li>
+	<li>Run <b>npm install</b> and all the dependencies mentioned in <b>package.json</b> will be installed inside *node_modules* folder</li>
 </ul>
 
 <hr>
