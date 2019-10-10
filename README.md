@@ -14,7 +14,7 @@ An Online Book Store created with [Node JS](https://nodejs.org/en/docs), [Expres
 	<li>Password reset link sent to registered mail</li>
 	<li>User Additon/Removal of Products</li>
 	<li>User Addition to/ Deletion from Cart</li>
-	<li>User Purchasing Products via a payment gateway implemented throgh <a href="https://stripe.com/)">stripe</a>(</li>
+	<li>User Purchasing Products via a payment gateway implemented through <a href="https://stripe.com/">stripe</a></li>
 </ul>
 
 <hr>
