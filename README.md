@@ -1,6 +1,6 @@
 # My_Book_Store
 
-An Online Book Store created with [Node JS](https://nodejs.org/en/docs/), [Express JS](https://expressjs.com/) and [MongoDB](https://docs.mongodb.com/).
+An Online Book Store created with [Node JS](https://nodejs.org/en/docs), [Express JS](https://expressjs.com/) and [MongoDB](https://docs.mongodb.com/).
 
 <hr>
 
@@ -14,7 +14,7 @@ An Online Book Store created with [Node JS](https://nodejs.org/en/docs/), [Expre
 	<li>Password reset link sent to registered mail</li>
 	<li>User Additon/Removal of Products</li>
 	<li>User Addition to/ Deletion from Cart</li>
-	<li>User Purchasing Products via a payment gateway implemented throgh [stripe](https://stripe.com/)</li>
+	<li>User Purchasing Products via a payment gateway implemented throgh <a href="https://stripe.com/)">stripe</a>(</li>
 </ul>
 
 <hr>
@@ -23,7 +23,7 @@ An Online Book Store created with [Node JS](https://nodejs.org/en/docs/), [Expre
 
 <ul>
 	<li><a href="https://nodejs.org/en/docs/">Node JS</a> must be installed</li>
-	<li><b>git clone</b>via <b>terminal</b>(for linux/mac) or <b>git bash</b>(for windows)</li>
+	<li><b>git clone</b> via <b>terminal</b>(for linux/mac) or <b>git bash</b>(for windows)</li>
 	<li><b>cd</b> to the cloned repository</li>
 	<li>Run <b>npm install</b> and all the dependencies mentioned in <b>package.json</b> will be installed inside *node_modules* folder</li>
 </ul>
