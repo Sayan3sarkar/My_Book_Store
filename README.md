@@ -25,7 +25,7 @@ An Online Book Store created with [Node JS](https://nodejs.org/en/docs), [Expres
 	<li><a href="https://nodejs.org/en/docs/">Node JS</a> must be installed</li>
 	<li><b>git clone</b> via <b>terminal</b>(for linux/mac) or <b>git bash</b>(for windows)</li>
 	<li><b>cd</b> to the cloned repository</li>
-	<li>Run <b>npm install</b> and all the dependencies mentioned in <b>package.json</b> will be installed inside *node_modules* folder</li>
+	<li>Run <b>npm install</b> and all the dependencies mentioned in <b>package.json</b> will be installed inside <b>node_modules</b> folder</li>
 </ul>
 
 <hr>
